@@ -13,3 +13,4 @@
 ### You can find me
 [![](https://img.shields.io/badge/-Twitter-9cf?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&color=00acee )](https://twitter.com/nagainochiyuki)
 [![](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=Micro.blog&logoColor=fff)](https://blog.yukimuon.com)
+[![](https://img.shields.io/badge/-LeetCode-9cf?style=flat-square&labelColor=orange&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/yukimuon/)
