@@ -11,6 +11,6 @@
 ![](https://img.shields.io/badge/-JavaScript-9cf?style=flat-square&logo=JavaScript&labelColor=F0DB4F&logoColor=323330&color=323330)
 ![](https://img.shields.io/badge/-HTML&CSS-9cf?style=flat-square&logo=HTML5&labelColor=FFFFFF&logoColor=F16529&color=E44D26)
 ### You can find me
-[![](https://img.shields.io/badge/-Twitter-9cf?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&color=00acee )](https://twitter.com/nagainochiyuki)
-[![](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=Micro.blog&logoColor=fff)](https://blog.yukimuon.com)
+[![](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=white&logo=twitter)](https://twitter.com/nagainochiyuki)
+[![](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=Micro.blog&logoColor=000000&labelColor=white)](https://blog.yukimuon.com)
 [![](https://img.shields.io/badge/-LeetCode-9cf?style=flat-square&labelColor=orange&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/yukimuon/)
