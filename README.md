@@ -1,8 +1,6 @@
 ### Nagato's profile
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api?username=yukimuon&theme=merko&show_icons=true&bg_color=ffffff"/></a>
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukimuon"/></a>
-<a href="#"><img align="center" src="https://via.placeholder.com/500x1.png/FFFFFF/FFFFFF"></a>
 
 ### I speak
 ![](https://img.shields.io/badge/λ-Racket-9cf?style=flat-square&logo=Scheme&labelColor=FF0000&color=blue)
