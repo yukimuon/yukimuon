@@ -6,7 +6,8 @@
 ![](https://img.shields.io/badge/-JavaScript-9cf?style=flat-square&logo=JavaScript&labelColor=F0DB4F&logoColor=323330&color=323330)
 ![](https://img.shields.io/badge/-HTML&CSS-9cf?style=flat-square&logo=HTML5&labelColor=FFFFFF&logoColor=F16529&color=E44D26)
 
-#### You can find be via
+#### You can find me via
+
 [![](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=white&logo=twitter)](https://twitter.com/nagainochiyuki)
 [![](https://img.shields.io/badge/-Website-black?style=flat-square&logo=ubuntu&logoColor=000000&labelColor=white)](https://yukimuon.com)
 [![](https://img.shields.io/badge/-Telegram-blue?style=flat-square&labelColor=f0f0f0&logo=telegram&logoColor=white)](https://t.me/yukimuon)
