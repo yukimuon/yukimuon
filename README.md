@@ -8,7 +8,7 @@
 
 #### You can find me via
 
-[![](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=white&logo=twitter)](https://twitter.com/nagainochiyuki)
+[![](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=white&logo=twitter)](https://twitter.com/yuk1muon)
 [![](https://img.shields.io/badge/-Website-black?style=flat-square&logo=ubuntu&logoColor=000000&labelColor=white)](https://yukimuon.com)
 [![](https://img.shields.io/badge/-Telegram-blue?style=flat-square&labelColor=f0f0f0&logo=telegram&logoColor=white)](https://t.me/yukimuon)
 [![](https://img.shields.io/badge/-Resume-grey?style=flat-square&labelColor=f0f0f0&logo=LibreOffice&logoColor=black)](https://yukimuon.com/resume/)
