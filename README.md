@@ -18,3 +18,4 @@
 [![](https://img.shields.io/badge/-Telegram-blue?style=flat-square&labelColor=f0f0f0&logo=telegram&logoColor=white)](https://t.me/yukimuon)
 [![](https://img.shields.io/badge/-Resume-grey?style=flat-square&labelColor=f0f0f0&logo=LibreOffice&logoColor=black)](https://yukimuon.com/resume/)
 [![](https://img.shields.io/badge/-LinkedIn-9cf?style=flat-square&logo=LinkedIn&labelColor=FFFFFF&logoColor=blue&color=blue)](https://www.linkedin.com/in/cliu57)
+[![](https://img.shields.io/badge/-WeChat-9cf?style=flat-square&logo=wechat&labelColor=ffffff&logoColor=07c160&color=07c160)](https://yukimuon.com/hc/public/wechatqr/)
